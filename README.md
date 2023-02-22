@@ -1,6 +1,5 @@
 # news_app
-
-A new Flutter project.
+Kiya Zewdu and Hanna Alemayehu
 
 ## Getting Started
 
