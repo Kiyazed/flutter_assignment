@@ -1,5 +1,5 @@
 # news_app
-Kiya Zewdu and Hanna Alemayehu
+Kiya Zewdu..1202173 & Hanna Alemayehu..1201926
 
 ## Getting Started
 
